@@ -6,6 +6,6 @@
   <title>Marine Traffic</title>
 </head>
 <body>
-Yow
+Yow. Works in VM1!
 </body>
 </html>
